@@ -9,14 +9,14 @@ Unfortunately this uses 3-letter ISO country codes so had to be converted to 2-l
 
 All aid data from DFID IATI data at http://iatiregistry.org and from Aid Information Platform http://aipbeta.dfid.gov.uk
 
-== Install ==
+##Install##
 Install folder on any web server. Navigate to /index.html to see the map.
 
-== Files ==
-=== index.html ===
+##Files##
+###index.html###
 Contains main js for initiating the map, referencing the data files
 
-=== countries2.js ===
+###countries2.js###
 GeoJSON file with both properties and co-ordinates for each country.
 Properties:
 * name
