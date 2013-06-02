@@ -2,6 +2,9 @@ worldmap
 ========
 
 Experiments with world choropleth map using Leaflet and GeoJSON.
+
+See http://tetrahedra.co.uk/worldmap for an example.
+
 Based on tutorial from http://leafletjs.com/examples/choropleth.html
 
 Original GeoJSON with world countries from https://github.com/johan/world.geo.json/blob/master/countries.geo.json 
